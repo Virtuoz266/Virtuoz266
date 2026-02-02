@@ -15,7 +15,7 @@
 | 🕯️ [**Svechi-Teplo-Bot**](https://github.com/Virtuoz266/Svechi-Teplo-Bot) | Полнофункциональный e-commerce бот с каталогом, корзиной и диалогом оформления заказа. | `Python`, `ConversationHandler` |
 | 🎬 [**Kino-Quiz-Bot**](https://github.com/Virtuoz266/Kino-Quiz-Bot) | Продвинутый бот-викторина с таблицей лидеров, статистикой и еженедельным сбросом. | `Python`, `JSON`, `Job Queue` |
 | 🧘 [**Yoga-Bot**](https://github.com/Virtuoz266/Yoga-Bot) | Элегантный бот-визитка для студии йоги с интерактивным меню. | `Python`, `Inline Keyboard` |
-| 📄 [**CV (Резюме)**](https://github.com/Virtuoz266/CV) | Мое онлайн-резюме, сверстанное на HTML и CSS. | `HTML`, `CSS` |
+| 📄 [**CV (Резюме) (Посмотреть 🌍)**](https://virtuoz266.github.io/CV/) | ... |
 
 ---
 
