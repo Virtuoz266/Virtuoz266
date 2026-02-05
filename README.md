@@ -12,7 +12,7 @@
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <a href="https://github.com/Virtuoz266/Svechi-Teplo-Bot">
         <img src="https://github.com/user-attachments/assets/a20084eb-2b49-4fde-8d0f-ef5dcfa34a57" alt="Svechi-Teplo-Bot Demo">
       </a>
@@ -21,7 +21,7 @@
       <p>Полнофункциональный e-commerce бот с каталогом, корзиной и диалогом оформления заказа.</p>
       <sub>Технологии: Python, ConversationHandler</sub>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <a href="https://github.com/Virtuoz266/Kino-Quiz-Bot">
         <img src="https://github.com/user-attachments/assets/6e7b54bc-710b-4ca4-ac3f-481a48b683c1" alt="Kino-Quiz-Bot Demo">
       </a>
@@ -32,7 +32,7 @@
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <a href="https://github.com/Virtuoz266/Yoga-Bot">
         <img src="https://github.com/user-attachments/assets/2c8905ed-4472-41cc-ac3f-86c5a373711f" alt="Yoga-Bot Demo">
       </a>
@@ -41,11 +41,7 @@
       <p>Элегантный бот-визитка для студии йоги с интерактивным меню.</p>
       <sub>Технологии: Python, Inline Keyboard</sub>
     </td>
-    <td width="50%">
-      <a href="https://virtuoz266.github.io/CV/">
-        <!-- Можно добавить скриншот сайта-резюме, если хотите -->
-        <img src="https://user-images.githubusercontent.com/..." alt="CV Website Screenshot">
-      </a>
+    <td width="50%" valign="top">
       <br>
       <strong>📄 <a href="https://virtuoz266.github.io/CV/">CV (Резюме) (Посмотреть 🌍)</a></strong>
       <p>Мое онлайн-резюме, сверстанное на HTML и CSS, демонстрирующее мои навыки и проекты.</p>
@@ -59,4 +55,3 @@
 📫 **Как со мной связаться:**
 - **Email:** virtuoz455@gmail.com
 - **Telegram:** @CraftedByAI
-
